@@ -1,6 +1,10 @@
 # Calculadora-DBOH
 ## Primer taller Fundamentos de Ingeniería de Software
 
+## Miembros del equipo
+- Nelson Santiago Roa Garzón - 20172020099 
+- Christian Isaac Gamboa Restrepo - 20172020076
+
 ## Descripción
 Programa de calculadora para realizar cálculos de operaciones Decimales, Binarias, Octales y Hexagesimales.
 
