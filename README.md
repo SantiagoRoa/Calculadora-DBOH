@@ -1,5 +1,5 @@
 # Calculadora-DBOH
-## Primer taller Fundamentos de Ingeniería de Software
+## Taller #1 Fundamentos de Ingeniería de Software
 
 ## Miembros del equipo
 - Nelson Santiago Roa Garzón - 20172020099 
